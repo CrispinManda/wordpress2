@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+    margin: 0;
+    padding: 100px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+}
